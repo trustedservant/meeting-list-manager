@@ -1,0 +1,6 @@
+{
+  "name": "Meeting-list-manager",
+  "tagline": "Master and Remote management of meeting lists",
+  "body": "### Welcome to Meeting List Manager\r\nNeed to centralize and publish meeting lists?  Meeting List Manager aims to remedy this.  The goal is to allow for multiple websites to share display and management of a centralized database.  Restriction to specific areas by user account for editing either directly or via API.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
